@@ -1,0 +1,29 @@
+[DEBUG] 29-05-2026 05:42:57 [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\Amr\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml"
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE baseTests.setUp()[pri:0, instance:null] -2023453555
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE baseTests.tearDown()[pri:0, instance:null] 489316598
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE baseTests.goHome()[pri:0, instance:null] 937524019
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE baseTests.recordFailure(org.testng.ITestResult)[pri:0, instance:null] -42158807
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+[TRACE] 29-05-2026 05:42:57 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+[TRACE] 29-05-2026 05:42:58 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE secureAreaPageTest.redirectionTest()[pri:0, instance:fluentPatternApproachTrialTest.secureAreaPageTest@77d67cf3] 404197723
+[TRACE] 29-05-2026 05:42:58 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+[TRACE] 29-05-2026 05:42:58 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+[TRACE] 29-05-2026 05:42:58 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+[TRACE] 29-05-2026 05:42:58 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+[INFO] 29-05-2026 05:42:58 [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Amr\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+

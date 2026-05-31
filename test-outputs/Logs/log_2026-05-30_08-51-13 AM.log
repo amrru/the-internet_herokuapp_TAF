@@ -1,0 +1,29 @@
+[DEBUG] 30-05-2026 08:51:14 [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\Amr\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml"
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE baseTests.setUp()[pri:0, instance:null] -2023453555
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE baseTests.tearDown()[pri:0, instance:null] 489316598
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE baseTests.goHome()[pri:0, instance:null] 937524019
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE baseTests.recordFailure(org.testng.ITestResult)[pri:0, instance:null] -42158807
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ADDING NODE loginTests.testSuccessfulLogin()[pri:0, instance:login.loginTests@5143c662] -1366301693
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ================ SORTING
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+[TRACE] 30-05-2026 08:51:15 [main] [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+[INFO] 30-05-2026 08:51:15 [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Amr\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
